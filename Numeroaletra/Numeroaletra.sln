@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numeroaletra", "Numeroaletra\Numeroaletra.csproj", "{CCAA7254-FB3C-4081-8A3E-34C34EB1378E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestNumeroaLetra", "UnitTestNumeroaLetra\UnitTestNumeroaLetra.csproj", "{D39376CF-E7C3-43BD-914E-B0DD05A3A21B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CCAA7254-FB3C-4081-8A3E-34C34EB1378E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCAA7254-FB3C-4081-8A3E-34C34EB1378E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCAA7254-FB3C-4081-8A3E-34C34EB1378E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D39376CF-E7C3-43BD-914E-B0DD05A3A21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39376CF-E7C3-43BD-914E-B0DD05A3A21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39376CF-E7C3-43BD-914E-B0DD05A3A21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39376CF-E7C3-43BD-914E-B0DD05A3A21B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
